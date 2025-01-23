@@ -1,0 +1,10 @@
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\bin\Debug\StudentManagementSyst.exe.config
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\bin\Debug\StudentManagementSyst.exe
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\bin\Debug\StudentManagementSyst.pdb
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.csproj.AssemblyReference.cache
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.Properties.Resources.resources
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.csproj.GenerateResource.cache
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.csproj.CoreCompileInputs.cache
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.exe
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.pdb
+C:\Users\PCZONE.GE\source\repos\StudentManagementSyst\StudentManagementSyst\obj\Debug\StudentManagementSyst.Form1.resources
